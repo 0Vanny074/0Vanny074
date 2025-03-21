@@ -3,13 +3,13 @@
 **`Analista de Sistemas`** **`Desenvolvedora Full-Stack`** **`Designer Gráfica`**
 
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá, me chamo Giovanna Pachiano Figueira, tenho 22 anos e sou natural do Pará Concluí o ensino médio no Colégio Mac e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando uma Graduação de Jogos Digitais na Estácio e uma Pós-Graduação de Design Gráfico na Faculdade Metropolitana. Sou apaixonada por tecnologia, adoro conhecer e estudar novas áreas, me denomino como curiosa, criativa e produtiva. Meu instagram é [giovannapachiano04](https://www.instagram.com/giovannapachiano04)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Me Siga" 
+            title="Instagram" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>

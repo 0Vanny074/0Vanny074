@@ -119,11 +119,3 @@ Olá, me chamo Giovanna Pachiano Figueira, tenho 22 anos e sou natural do Pará 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=0Vanny074&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
 />
-
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="100" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Vanny074&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
